@@ -4,7 +4,7 @@ layout: default
 
 ## Introduction
 
-Greetings, visitor! I am Mortimer Mamelukkikala, a made up person for the Final Assignment of Command line tools for linguists course in the University of Helsinki.
+Greetings, visitor! I am Mortimer Mamelukkikala, a made up person for the Final Assignment of the Command line tools for linguists course in the University of Helsinki.
 Much like my creator, I also go to a university. I'm a second-year student in the Fish University of Malmö, where I am majoring in undersea gardening.
 
 Outside of studying and tending to my rock wrack garden, my days are usually spent swimming and scavenging the sea floor for nutrients.
