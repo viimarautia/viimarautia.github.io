@@ -4,24 +4,31 @@ layout: default
 
 ## Introduction
 
-Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Greetings, visitor! I am Mortimer Mamelukkikala, a made up person for the Final Assignment of Command line tools for linguists course in the University of Helsinki.
+Much like my creator, I also go to a university. I'm a second-year student in the Fish University of Malmö, where I am majoring in undersea gardening.
+
+Outside of studying and tending to my rock wrack garden, my days are usually spent swimming and scavenging the sea floor for nutrients.
+Sometimes I like to break my routine and take a short walk on the beach and simply observe people.
+I'm also a huge fan of squash and visit a friend every week to catch a game on their high-definition TV.
 
 ## Find me on
 
-[LinkedIn](https://fi.linkedin.com/mouse-mousekewitz), [GitHub](https://github.com/mokewitz)
+[GitHub](https://github.com/viimarautia)
 
 ## Contact
 
-My email address is of the form first_name.last_name@helsinki.fi. 
+My email address is of the form vb[last_name]@ad.helsinki.fi. 
 
 ## Courses I've Taken
 
-[Enjoying Cheese I](https://courses.helsinki.fi/enjoying-cheese-I), fall 2018
+[Johdatus kieliteknologiaan](https://courses.helsinki.fi/fi/kik-405), fall 2019
 
-[Feline Avoidance](https://courses.helsinki.fi/feline-avoidance), fall 2018
+[Johdatusta yleiseen kirjallisuustieteeseen](https://courses.helsinki.fi/fi/ttk-yl110), fall 2019
 
 ## Projects
 
+[Command Line Course Github Project](https://github.com/viimarautia/cmdline-course.git)
+
 ## Misc. 
 
-[Gotta Love Cheese](https://en.wikipedia.org/wiki/Cheese) 
+[Whishcash on Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Whiscash_(Pok%C3%A9mon))
