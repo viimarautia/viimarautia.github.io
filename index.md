@@ -21,13 +21,13 @@ My email address is of the form vb[last_name]@ad.helsinki.fi.
 
 ## Courses I've Taken
 
-[Johdatus kieliteknologiaan](https://courses.helsinki.fi/fi/kik-405), fall 2019 
-[Johdatusta yleiseen kirjallisuustieteeseen](https://courses.helsinki.fi/fi/ttk-yl110), fall 2019
+[Johdatus kieliteknologiaan](https://courses.helsinki.fi/fi/kik-405), fall 2019  
+[Johdatusta yleiseen kirjallisuustieteeseen](https://courses.helsinki.fi/fi/ttk-yl110), fall 2019 
 
 ## Projects
 
-[Command Line Course Github Project](https://github.com/viimarautia/cmdline-course.git)
+[Command Line Course Github Project](https://github.com/viimarautia/cmdline-course.git) 
 
 ## Misc. 
 
-[Whishcash on Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Whiscash_(Pok%C3%A9mon))
+[Whishcash on Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Whiscash_(Pok%C3%A9mon)) 
