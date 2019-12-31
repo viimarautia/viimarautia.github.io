@@ -39,6 +39,7 @@ h3, h4, h5, h6 {
 a {
   color:#14A989;
   text-decoration:none;
+  text-transform:lowercase;
   font-variant:small-caps;
 }
 
@@ -204,7 +205,7 @@ div.linkbar {
 
 a.sitelinks {
     padding-right: 10px;
-    font-size:20px;
+    font-size:22px;
 }
 
 @media print, screen and (max-width: 960px) {
