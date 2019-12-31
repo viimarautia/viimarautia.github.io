@@ -12,6 +12,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
   color:#222;
   margin:0 0 20px;
+  font-variant:small-caps;
 }
 
 p, ul, ol, table, pre, dl {
@@ -36,12 +37,13 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:#267CB9;
+  color:#14A989;
   text-decoration:none;
+  font-variant:small-caps;
 }
 
 a:hover, a:focus {
-  color:#005cf9;
+  color:#319177;
 }
 
 a small {
