@@ -26,7 +26,7 @@ My email address is of the form vb[last_name]@ad.helsinki.fi.
 
 ## Projects
 
-[Command Line Course Github Project](https://github.com/viimarautia/cmdline-course.git) 
+[Command line course Github project](https://github.com/viimarautia/cmdline-course.git) 
 
 ## Misc. 
 
