@@ -13,9 +13,7 @@ I'm also a huge fan of squash and visit a friend every week to catch a game on t
 
 ## Find me on
 
-[GitHub](https://github.com/viimarautia)
-
-[CV](https://www.overleaf.com/read/qmxfwbhpvzvn)
+[GitHub](https://github.com/viimarautia) 
 
 ## Contact
 
@@ -23,8 +21,7 @@ My email address is of the form vb[last_name]@ad.helsinki.fi.
 
 ## Courses I've Taken
 
-[Johdatus kieliteknologiaan](https://courses.helsinki.fi/fi/kik-405), fall 2019
-
+[Johdatus kieliteknologiaan](https://courses.helsinki.fi/fi/kik-405), fall 2019 
 [Johdatusta yleiseen kirjallisuustieteeseen](https://courses.helsinki.fi/fi/ttk-yl110), fall 2019
 
 ## Projects
