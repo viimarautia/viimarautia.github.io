@@ -25,7 +25,7 @@ After the first week we were able to do the following in the command line:
   * copy, rename and move files
   * open and edit a file in text editor
 
-```C
+```bash
 $ cd KIK-LG219/week1/
 $ ls
 $ touch test.txt
@@ -51,7 +51,7 @@ how to find the PID of a process and kill it, and how to run commands in the bac
 In the third part we learnt about working on a remote server using ssh and scp,
 how to how to form a remote connection to a server, and how to to copy files to and from a server using scp.
 
-```C
+```bash
 $ chmod a+rwx test.txt
 $ mv test.txt sub/
 $ mv -r sub/ week2/
@@ -77,7 +77,7 @@ but it all worked out in the end.
 
 >Table: An example of what the contents of a structured text file might look like.
 
-```C
+```bash
 $ egrep "^Hello" test.txt | wc -l
 $ cat test.txt | tr '\n' ' ' 2> errors.txt
 ```
@@ -95,7 +95,7 @@ which allowed us to avoid generating a lot of unnecessary files while operating 
 An important part or this week was the sed command which is used to transform text files.
 We learnt more about regular expressions since they are instrumental to using sed.
 
-```C
+```bash
 $ cat test.txt | sed 's/cat/dog/' | tr -s '\n\t\r ' '\n' | tr -cd "A-Za-z0-9\n'" | sort | uniq -c | sort -nr
 ```
 
@@ -105,21 +105,21 @@ then piping first to sort, then uniq, then sort again to create a frequency list
 
 #### Week 5: Scripting and Configuration Files
 
-```
+```bash
 ```
 
 >Code:
 
 #### Week 6: Installing and Running Programs
 
-```
+```bash
 ```
 
 >Code:
 
 #### Week 7: Version Control
 
-```
+```bash
 ```
 
 >Code:
