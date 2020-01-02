@@ -110,7 +110,7 @@ On the fifth week we learnt about scripting and wrote some scripts ourselves.
 We also learnt about environment variables in UNIX systems and how changing these variables can alter the system.
 After that we set up our own configuration file to keep some of the variables if we so wished.
 
-This was my personal favourite subject in this course.
+This was my personal favourite subject of this course.
 I had no previous knowledge of scripting so the quiz was challenging at times
 but in a way that made me want to try harder and learn more.
 
@@ -135,10 +135,24 @@ If it is, the script exits with a 0. If it isn't, it exits with a 1.
 
 #### Week 6: Installing and Running Programs
 
-```bash
+The sixth week dealt with installing programs.
+We learnt what package managing programs are, what they do, and why they're so useful.
+We also learnt how to install software using apt-get or brew, and hot to install python packages using pip.
+Giving commands as the root user, preferably using sudo, came in handy during this week.
+
+The second part of the week was about Makefiles and the command make,
+which is a utility for building programs, libraries or other projects.
+The quiz of the week showed us in practice how make can run scripts on files and automate entire pipelines.
+
+```cpp
+results/%.sent.txt: data/%.no_md.txt
+	src/sent_per_line.sh $< $@
 ```
 
->Code:
+>Code: A make rule which has a target results/%.sent.txt and dependency data/%.no_md.txt.
+The Makefile will take each file in the directory data/ that ends in '.no_md.txt',
+run sent_per_line.sh on them, and save the results in the directory results/
+with the files' endings '.no_md.txt' changed to '.sent.txt'.
 
 #### Week 7: Version Control
 
