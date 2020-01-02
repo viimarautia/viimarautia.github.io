@@ -10,6 +10,10 @@ Instead of theoretical knowledge,
 the course focuses on getting hands-on experience with working in the command line.
 This is intended to make students feel comfortable in operating their own command line.
 
+![screencap of my terminal](./assets/img/terminal.png)
+
+>Image: A screencap of my terminal taken right after writing this page.
+
 #### Week 1: Introduction to Command Line Environments
 
 The first week was about setting up your own command line environment.
@@ -156,9 +160,27 @@ with the files' endings '.no_md.txt' changed to '.sent.txt'.
 
 #### Week 7: Version Control
 
+In the seventh week we learnt about version control and why we should use it
+whenever we are developing a large-ish project, especially if it's being developed by more than one person.
+
+After installing Git and setting up a repository in Github we learnt in practice
+how to add files to our local repository, commit these changes, and push the changes to our global repository in Github.
+We also learnt how version control makes it possible to go back to previous versions safely,
+keep multiple versions of a file, and switch between them,
+thus allowing us to make changes without losing previous progress.
+Branches especially turned out to be important to version control,
+which is why we were introduced to Git branches and how to create, switch between, and merge them.
+
 ```bash
+$ git checkout -b expreriment
+$ touch experimental.txt
+$ git add experimental.txt
+$ git commit -m "Added an experimental file"
+$ git push origin experiment
 ```
 
->Code:
-
-
+>Commands: The first command creates a new branch called "experiment" and switches on it.
+The second command creates a text file and the third adds it to the staging area.
+The fourth command commits these staged changes and in a way "saves" these changes.
+It also adds a comment meant to describe what changes have been made.
+The final command sends the committed changes to remote repositories.
