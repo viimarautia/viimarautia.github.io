@@ -13,7 +13,8 @@ I'm also a huge fan of squash and visit a friend every week to catch a game on t
 
 ## Find me on
 
-[GitHub](https://github.com/viimarautia) 
+[GitHub](https://github.com/viimarautia)  
+[My CV](https://www.overleaf.com/read/qmxfwbhpvzvn)
 
 ## Contact
 
