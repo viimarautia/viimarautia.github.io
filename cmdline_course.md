@@ -96,19 +96,42 @@ An important part or this week was the sed command which is used to transform te
 We learnt more about regular expressions since they are instrumental to using sed.
 
 ```bash
-$ cat test.txt | sed 's/cat/dog/' | tr -s '\n\t\r ' '\n' | tr -cd "A-Za-z0-9\n'" | sort | uniq -c | sort -nr
+$ cat test.txt | sed 's/cat/dog/' | tr -s '\n\t\r ' '\n' | tr -cd "A-Za-z0-9\n'" | sort | uniq -c | sort -nr > freqlist.txt
 ```
 
 >Command: Using sed to replace every instance of the word "cat" in test.txt with the word "dog",
 then redirecting to tr to first separate all words into new lines and then remove punctuation,
-then piping first to sort, then uniq, then sort again to create a frequency list.
+then piping first to sort, then uniq, then sort again
+and finally directing the output to freqlist.txt to create a frequency list.
 
 #### Week 5: Scripting and Configuration Files
 
+On the fifth week we learnt about scripting and wrote some scripts ourselves.
+We also learnt about environment variables in UNIX systems and how changing these variables can alter the system.
+After that we set up our own configuration file to keep some of the variables if we so wished.
+
+This was my personal favourite subject in this course.
+I had no previous knowledge of scripting so the quiz was challenging at times
+but in a way that made me want to try harder and learn more.
+
 ```bash
+#!/bin/bash
+
+A=`ls $1 2> /dev/null`
+
+if [ -n "$A" ]
+
+then
+	exit 0
+else
+	exit 1
+
+fi
 ```
 
->Code:
+>Code: A script that, when run, first tells the system what interpreter to use,
+then sets a $A variable, and then tests if the length of this variable is greater than zero.
+If it is, the script exits with a 0. If it isn't, it exits with a 1.
 
 #### Week 6: Installing and Running Programs
 
