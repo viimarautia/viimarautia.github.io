@@ -30,4 +30,5 @@ My email address is of the form vb[last_name]@ad.helsinki.fi.
 
 ## Misc. 
 
-[Whishcash on Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Whiscash_(Pok%C3%A9mon)) 
+[Catfish on Wikipedia](https://en.wikipedia.org/wiki/Catfish)  
+[Mamelukkikala (dAb-Key Edit)](https://www.youtube.com/watch?v=puBVRHEDkxM)
